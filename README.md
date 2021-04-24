@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MTB19
+- 👋 Hi, I’m ayoub el motreb
 - 👀 I’m interested in finance
 - 🌱 I’m currently learning behavioral finance 
 - 💞️ I’m looking to collaborate on finance
